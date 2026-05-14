@@ -62,28 +62,51 @@ I-Type
 S-Type
 B-Type
 Architecture Overview
-PC → Instruction Memory → Control Unit
+PC     →      Instruction Memory      →       Control Unit
+
                 ↓
+                
          Register File
+         
                 ↓
+                
               ALU
+              
                 ↓
+                
           Data Memory
+          
                 ↓
+                
              Write Back
+             
 Tools & Technologies
+
 Verilog HDL
+
 FPGA-Oriented RTL Design
+
 Digital Design Concepts
+
 RISC-V ISA Basics
+
 Future Improvements
+
 Pipeline Architecture
+
 Hazard Detection
+
 Cache Memory
+
 UART/SPI Interfaces
+
 BLE / PCIe Integration
+
+
 Interrupt Handling
+
 Author
 
 Ziad Mohamed
+
 Digital IC Design & FPGA Enthusiast
